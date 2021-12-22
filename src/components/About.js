@@ -15,7 +15,7 @@ const About = () => {
         development.
       </p>
 
-      <ScrollIntoView selector="#scroller">
+      <ScrollIntoView selector="#skills">
         <div className="mx-auto p-20 cursor-pointer">
           <BsChevronDoubleDown className="animate-bounce mx-auto text-3xl text-blue-500" />
         </div>
