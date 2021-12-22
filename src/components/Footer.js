@@ -37,10 +37,11 @@ const Footer = () => {
       </div>
       <div className="flex justify-center mt-4">
         <p className="text-black mb-4">
-          Made with{" "}
+          Made with
           <span className="mr-2" role="link" aria-label="heart">
+            {" "}
             💙
-          </span>{" "}
+          </span>
           by{" "}
           <a
             className="text-blue-500 hover:underline cursor-pointer"
